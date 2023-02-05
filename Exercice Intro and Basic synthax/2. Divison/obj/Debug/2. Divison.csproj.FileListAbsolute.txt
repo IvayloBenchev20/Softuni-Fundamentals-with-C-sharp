@@ -1,0 +1,8 @@
+C:\Users\ivayl\source\repos\Exercice Intro and Basic synthax\2. Divison\bin\Debug\_2.Divison.exe.config
+C:\Users\ivayl\source\repos\Exercice Intro and Basic synthax\2. Divison\bin\Debug\_2.Divison.exe
+C:\Users\ivayl\source\repos\Exercice Intro and Basic synthax\2. Divison\bin\Debug\_2.Divison.pdb
+C:\Users\ivayl\source\repos\Exercice Intro and Basic synthax\2. Divison\obj\Debug\2. Divison.csproj.AssemblyReference.cache
+C:\Users\ivayl\source\repos\Exercice Intro and Basic synthax\2. Divison\obj\Debug\2. Divison.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivayl\source\repos\Exercice Intro and Basic synthax\2. Divison\obj\Debug\2. Divison.csproj.CoreCompileInputs.cache
+C:\Users\ivayl\source\repos\Exercice Intro and Basic synthax\2. Divison\obj\Debug\_2.Divison.exe
+C:\Users\ivayl\source\repos\Exercice Intro and Basic synthax\2. Divison\obj\Debug\_2.Divison.pdb

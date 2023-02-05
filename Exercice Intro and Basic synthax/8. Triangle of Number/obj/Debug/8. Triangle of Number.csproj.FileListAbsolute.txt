@@ -1,0 +1,8 @@
+C:\Users\ivayl\source\repos\Exercice Intro and Basic synthax\8. Triangle of Number\bin\Debug\_8.Triangle_of_Number.exe.config
+C:\Users\ivayl\source\repos\Exercice Intro and Basic synthax\8. Triangle of Number\bin\Debug\_8.Triangle_of_Number.exe
+C:\Users\ivayl\source\repos\Exercice Intro and Basic synthax\8. Triangle of Number\bin\Debug\_8.Triangle_of_Number.pdb
+C:\Users\ivayl\source\repos\Exercice Intro and Basic synthax\8. Triangle of Number\obj\Debug\8. Triangle of Number.csproj.AssemblyReference.cache
+C:\Users\ivayl\source\repos\Exercice Intro and Basic synthax\8. Triangle of Number\obj\Debug\8. Triangle of Number.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivayl\source\repos\Exercice Intro and Basic synthax\8. Triangle of Number\obj\Debug\8. Triangle of Number.csproj.CoreCompileInputs.cache
+C:\Users\ivayl\source\repos\Exercice Intro and Basic synthax\8. Triangle of Number\obj\Debug\_8.Triangle_of_Number.exe
+C:\Users\ivayl\source\repos\Exercice Intro and Basic synthax\8. Triangle of Number\obj\Debug\_8.Triangle_of_Number.pdb

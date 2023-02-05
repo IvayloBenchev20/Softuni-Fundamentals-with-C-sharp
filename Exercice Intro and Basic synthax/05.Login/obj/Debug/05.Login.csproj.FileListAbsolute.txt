@@ -1,0 +1,8 @@
+C:\Users\ivayl\source\repos\Exercice Intro and Basic synthax\05.Login\bin\Debug\05.Login.exe.config
+C:\Users\ivayl\source\repos\Exercice Intro and Basic synthax\05.Login\bin\Debug\05.Login.exe
+C:\Users\ivayl\source\repos\Exercice Intro and Basic synthax\05.Login\bin\Debug\05.Login.pdb
+C:\Users\ivayl\source\repos\Exercice Intro and Basic synthax\05.Login\obj\Debug\05.Login.csproj.AssemblyReference.cache
+C:\Users\ivayl\source\repos\Exercice Intro and Basic synthax\05.Login\obj\Debug\05.Login.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivayl\source\repos\Exercice Intro and Basic synthax\05.Login\obj\Debug\05.Login.csproj.CoreCompileInputs.cache
+C:\Users\ivayl\source\repos\Exercice Intro and Basic synthax\05.Login\obj\Debug\05.Login.exe
+C:\Users\ivayl\source\repos\Exercice Intro and Basic synthax\05.Login\obj\Debug\05.Login.pdb

@@ -1,0 +1,8 @@
+C:\Users\ivayl\source\repos\Exercice Intro and Basic synthax\03. Vacation\bin\Debug\_03.Vacation.exe.config
+C:\Users\ivayl\source\repos\Exercice Intro and Basic synthax\03. Vacation\bin\Debug\_03.Vacation.exe
+C:\Users\ivayl\source\repos\Exercice Intro and Basic synthax\03. Vacation\bin\Debug\_03.Vacation.pdb
+C:\Users\ivayl\source\repos\Exercice Intro and Basic synthax\03. Vacation\obj\Debug\03. Vacation.csproj.AssemblyReference.cache
+C:\Users\ivayl\source\repos\Exercice Intro and Basic synthax\03. Vacation\obj\Debug\03. Vacation.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivayl\source\repos\Exercice Intro and Basic synthax\03. Vacation\obj\Debug\03. Vacation.csproj.CoreCompileInputs.cache
+C:\Users\ivayl\source\repos\Exercice Intro and Basic synthax\03. Vacation\obj\Debug\_03.Vacation.exe
+C:\Users\ivayl\source\repos\Exercice Intro and Basic synthax\03. Vacation\obj\Debug\_03.Vacation.pdb

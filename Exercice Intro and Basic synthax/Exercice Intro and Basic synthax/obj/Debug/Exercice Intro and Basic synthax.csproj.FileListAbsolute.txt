@@ -1,0 +1,8 @@
+C:\Users\ivayl\source\repos\Exercice Intro and Basic synthax\Exercice Intro and Basic synthax\bin\Debug\Exercice Intro and Basic synthax.exe.config
+C:\Users\ivayl\source\repos\Exercice Intro and Basic synthax\Exercice Intro and Basic synthax\bin\Debug\Exercice Intro and Basic synthax.exe
+C:\Users\ivayl\source\repos\Exercice Intro and Basic synthax\Exercice Intro and Basic synthax\bin\Debug\Exercice Intro and Basic synthax.pdb
+C:\Users\ivayl\source\repos\Exercice Intro and Basic synthax\Exercice Intro and Basic synthax\obj\Debug\Exercice Intro and Basic synthax.csproj.AssemblyReference.cache
+C:\Users\ivayl\source\repos\Exercice Intro and Basic synthax\Exercice Intro and Basic synthax\obj\Debug\Exercice Intro and Basic synthax.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivayl\source\repos\Exercice Intro and Basic synthax\Exercice Intro and Basic synthax\obj\Debug\Exercice Intro and Basic synthax.csproj.CoreCompileInputs.cache
+C:\Users\ivayl\source\repos\Exercice Intro and Basic synthax\Exercice Intro and Basic synthax\obj\Debug\Exercice Intro and Basic synthax.exe
+C:\Users\ivayl\source\repos\Exercice Intro and Basic synthax\Exercice Intro and Basic synthax\obj\Debug\Exercice Intro and Basic synthax.pdb

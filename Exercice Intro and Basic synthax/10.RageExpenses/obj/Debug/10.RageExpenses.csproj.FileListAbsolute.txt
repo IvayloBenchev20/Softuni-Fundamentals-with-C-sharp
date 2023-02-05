@@ -1,0 +1,8 @@
+C:\Users\ivayl\source\repos\Exercice Intro and Basic synthax\10.RageExpenses\bin\Debug\10.RageExpenses.exe.config
+C:\Users\ivayl\source\repos\Exercice Intro and Basic synthax\10.RageExpenses\bin\Debug\10.RageExpenses.exe
+C:\Users\ivayl\source\repos\Exercice Intro and Basic synthax\10.RageExpenses\bin\Debug\10.RageExpenses.pdb
+C:\Users\ivayl\source\repos\Exercice Intro and Basic synthax\10.RageExpenses\obj\Debug\10.RageExpenses.csproj.AssemblyReference.cache
+C:\Users\ivayl\source\repos\Exercice Intro and Basic synthax\10.RageExpenses\obj\Debug\10.RageExpenses.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivayl\source\repos\Exercice Intro and Basic synthax\10.RageExpenses\obj\Debug\10.RageExpenses.csproj.CoreCompileInputs.cache
+C:\Users\ivayl\source\repos\Exercice Intro and Basic synthax\10.RageExpenses\obj\Debug\10.RageExpenses.exe
+C:\Users\ivayl\source\repos\Exercice Intro and Basic synthax\10.RageExpenses\obj\Debug\10.RageExpenses.pdb

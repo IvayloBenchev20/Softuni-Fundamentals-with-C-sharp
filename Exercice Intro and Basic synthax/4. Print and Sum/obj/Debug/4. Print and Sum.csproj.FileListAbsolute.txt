@@ -1,0 +1,8 @@
+C:\Users\ivayl\source\repos\Exercice Intro and Basic synthax\4. Print and Sum\bin\Debug\_4.Print_and_Sum.exe.config
+C:\Users\ivayl\source\repos\Exercice Intro and Basic synthax\4. Print and Sum\bin\Debug\_4.Print_and_Sum.exe
+C:\Users\ivayl\source\repos\Exercice Intro and Basic synthax\4. Print and Sum\bin\Debug\_4.Print_and_Sum.pdb
+C:\Users\ivayl\source\repos\Exercice Intro and Basic synthax\4. Print and Sum\obj\Debug\4. Print and Sum.csproj.AssemblyReference.cache
+C:\Users\ivayl\source\repos\Exercice Intro and Basic synthax\4. Print and Sum\obj\Debug\4. Print and Sum.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivayl\source\repos\Exercice Intro and Basic synthax\4. Print and Sum\obj\Debug\4. Print and Sum.csproj.CoreCompileInputs.cache
+C:\Users\ivayl\source\repos\Exercice Intro and Basic synthax\4. Print and Sum\obj\Debug\_4.Print_and_Sum.exe
+C:\Users\ivayl\source\repos\Exercice Intro and Basic synthax\4. Print and Sum\obj\Debug\_4.Print_and_Sum.pdb
