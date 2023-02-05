@@ -1,0 +1,8 @@
+C:\Users\ivayl\source\repos\Intro and Basic Syntax\10.Multiplication Table\bin\Debug\10.Multiplication Table.exe.config
+C:\Users\ivayl\source\repos\Intro and Basic Syntax\10.Multiplication Table\bin\Debug\10.Multiplication Table.exe
+C:\Users\ivayl\source\repos\Intro and Basic Syntax\10.Multiplication Table\bin\Debug\10.Multiplication Table.pdb
+C:\Users\ivayl\source\repos\Intro and Basic Syntax\10.Multiplication Table\obj\Debug\10.Multiplication Table.csproj.AssemblyReference.cache
+C:\Users\ivayl\source\repos\Intro and Basic Syntax\10.Multiplication Table\obj\Debug\10.Multiplication Table.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivayl\source\repos\Intro and Basic Syntax\10.Multiplication Table\obj\Debug\10.Multiplication Table.csproj.CoreCompileInputs.cache
+C:\Users\ivayl\source\repos\Intro and Basic Syntax\10.Multiplication Table\obj\Debug\10.Multiplication Table.exe
+C:\Users\ivayl\source\repos\Intro and Basic Syntax\10.Multiplication Table\obj\Debug\10.Multiplication Table.pdb

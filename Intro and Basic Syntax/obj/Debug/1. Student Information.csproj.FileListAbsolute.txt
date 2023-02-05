@@ -1,0 +1,8 @@
+C:\Users\ivayl\source\repos\Intro and Basic Syntax\Intro and Basic Syntax\bin\Debug\Intro and Basic Syntax.exe.config
+C:\Users\ivayl\source\repos\Intro and Basic Syntax\Intro and Basic Syntax\bin\Debug\Intro and Basic Syntax.exe
+C:\Users\ivayl\source\repos\Intro and Basic Syntax\Intro and Basic Syntax\bin\Debug\Intro and Basic Syntax.pdb
+C:\Users\ivayl\source\repos\Intro and Basic Syntax\Intro and Basic Syntax\obj\Debug\1. Student Information.csproj.AssemblyReference.cache
+C:\Users\ivayl\source\repos\Intro and Basic Syntax\Intro and Basic Syntax\obj\Debug\1. Student Information.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivayl\source\repos\Intro and Basic Syntax\Intro and Basic Syntax\obj\Debug\1. Student Information.csproj.CoreCompileInputs.cache
+C:\Users\ivayl\source\repos\Intro and Basic Syntax\Intro and Basic Syntax\obj\Debug\Intro and Basic Syntax.exe
+C:\Users\ivayl\source\repos\Intro and Basic Syntax\Intro and Basic Syntax\obj\Debug\Intro and Basic Syntax.pdb

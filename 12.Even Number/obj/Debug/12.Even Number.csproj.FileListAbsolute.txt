@@ -1,0 +1,8 @@
+C:\Users\ivayl\source\repos\Intro and Basic Syntax\12.Even Number\bin\Debug\12.Even Number.exe.config
+C:\Users\ivayl\source\repos\Intro and Basic Syntax\12.Even Number\bin\Debug\12.Even Number.exe
+C:\Users\ivayl\source\repos\Intro and Basic Syntax\12.Even Number\bin\Debug\12.Even Number.pdb
+C:\Users\ivayl\source\repos\Intro and Basic Syntax\12.Even Number\obj\Debug\12.Even Number.csproj.AssemblyReference.cache
+C:\Users\ivayl\source\repos\Intro and Basic Syntax\12.Even Number\obj\Debug\12.Even Number.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivayl\source\repos\Intro and Basic Syntax\12.Even Number\obj\Debug\12.Even Number.csproj.CoreCompileInputs.cache
+C:\Users\ivayl\source\repos\Intro and Basic Syntax\12.Even Number\obj\Debug\12.Even Number.exe
+C:\Users\ivayl\source\repos\Intro and Basic Syntax\12.Even Number\obj\Debug\12.Even Number.pdb
