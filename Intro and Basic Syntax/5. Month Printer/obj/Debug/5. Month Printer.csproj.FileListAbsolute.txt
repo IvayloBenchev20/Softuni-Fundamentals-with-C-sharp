@@ -1,0 +1,8 @@
+C:\Users\ivayl\source\repos\Intro and Basic Syntax\5. Month Printer\bin\Debug\_5.Month_Printer.exe.config
+C:\Users\ivayl\source\repos\Intro and Basic Syntax\5. Month Printer\bin\Debug\_5.Month_Printer.exe
+C:\Users\ivayl\source\repos\Intro and Basic Syntax\5. Month Printer\bin\Debug\_5.Month_Printer.pdb
+C:\Users\ivayl\source\repos\Intro and Basic Syntax\5. Month Printer\obj\Debug\5. Month Printer.csproj.AssemblyReference.cache
+C:\Users\ivayl\source\repos\Intro and Basic Syntax\5. Month Printer\obj\Debug\5. Month Printer.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivayl\source\repos\Intro and Basic Syntax\5. Month Printer\obj\Debug\5. Month Printer.csproj.CoreCompileInputs.cache
+C:\Users\ivayl\source\repos\Intro and Basic Syntax\5. Month Printer\obj\Debug\_5.Month_Printer.exe
+C:\Users\ivayl\source\repos\Intro and Basic Syntax\5. Month Printer\obj\Debug\_5.Month_Printer.pdb

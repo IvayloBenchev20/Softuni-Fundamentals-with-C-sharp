@@ -1,0 +1,8 @@
+C:\Users\ivayl\source\repos\Intro and Basic Syntax\7.Theatre Promotion\bin\Debug\7.Theatre Promotion.exe.config
+C:\Users\ivayl\source\repos\Intro and Basic Syntax\7.Theatre Promotion\bin\Debug\7.Theatre Promotion.exe
+C:\Users\ivayl\source\repos\Intro and Basic Syntax\7.Theatre Promotion\bin\Debug\7.Theatre Promotion.pdb
+C:\Users\ivayl\source\repos\Intro and Basic Syntax\7.Theatre Promotion\obj\Debug\7.Theatre Promotion.csproj.AssemblyReference.cache
+C:\Users\ivayl\source\repos\Intro and Basic Syntax\7.Theatre Promotion\obj\Debug\7.Theatre Promotion.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivayl\source\repos\Intro and Basic Syntax\7.Theatre Promotion\obj\Debug\7.Theatre Promotion.csproj.CoreCompileInputs.cache
+C:\Users\ivayl\source\repos\Intro and Basic Syntax\7.Theatre Promotion\obj\Debug\7.Theatre Promotion.exe
+C:\Users\ivayl\source\repos\Intro and Basic Syntax\7.Theatre Promotion\obj\Debug\7.Theatre Promotion.pdb

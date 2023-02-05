@@ -1,0 +1,8 @@
+C:\Users\ivayl\source\repos\Intro and Basic Syntax\4.Back in 30 minutes\bin\Debug\4.Back in 30 minutes.exe.config
+C:\Users\ivayl\source\repos\Intro and Basic Syntax\4.Back in 30 minutes\bin\Debug\4.Back in 30 minutes.exe
+C:\Users\ivayl\source\repos\Intro and Basic Syntax\4.Back in 30 minutes\bin\Debug\4.Back in 30 minutes.pdb
+C:\Users\ivayl\source\repos\Intro and Basic Syntax\4.Back in 30 minutes\obj\Debug\4.Back in 30 minutes.csproj.AssemblyReference.cache
+C:\Users\ivayl\source\repos\Intro and Basic Syntax\4.Back in 30 minutes\obj\Debug\4.Back in 30 minutes.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivayl\source\repos\Intro and Basic Syntax\4.Back in 30 minutes\obj\Debug\4.Back in 30 minutes.csproj.CoreCompileInputs.cache
+C:\Users\ivayl\source\repos\Intro and Basic Syntax\4.Back in 30 minutes\obj\Debug\4.Back in 30 minutes.exe
+C:\Users\ivayl\source\repos\Intro and Basic Syntax\4.Back in 30 minutes\obj\Debug\4.Back in 30 minutes.pdb
