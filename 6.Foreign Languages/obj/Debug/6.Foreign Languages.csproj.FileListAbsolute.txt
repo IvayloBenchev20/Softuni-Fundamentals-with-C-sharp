@@ -1,8 +1,0 @@
-C:\Users\ivayl\source\repos\Intro and Basic Syntax\6.Foreign Languages\bin\Debug\6.Foreign Languages.exe.config
-C:\Users\ivayl\source\repos\Intro and Basic Syntax\6.Foreign Languages\bin\Debug\6.Foreign Languages.exe
-C:\Users\ivayl\source\repos\Intro and Basic Syntax\6.Foreign Languages\bin\Debug\6.Foreign Languages.pdb
-C:\Users\ivayl\source\repos\Intro and Basic Syntax\6.Foreign Languages\obj\Debug\6.Foreign Languages.csproj.AssemblyReference.cache
-C:\Users\ivayl\source\repos\Intro and Basic Syntax\6.Foreign Languages\obj\Debug\6.Foreign Languages.csproj.SuggestedBindingRedirects.cache
-C:\Users\ivayl\source\repos\Intro and Basic Syntax\6.Foreign Languages\obj\Debug\6.Foreign Languages.csproj.CoreCompileInputs.cache
-C:\Users\ivayl\source\repos\Intro and Basic Syntax\6.Foreign Languages\obj\Debug\6.Foreign Languages.exe
-C:\Users\ivayl\source\repos\Intro and Basic Syntax\6.Foreign Languages\obj\Debug\6.Foreign Languages.pdb
