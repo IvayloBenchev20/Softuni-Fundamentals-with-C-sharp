@@ -1,0 +1,8 @@
+C:\Users\ivayl\source\repos\Exercise Data Types and Variables\09. Spice Must Flow\bin\Debug\_09.Spice_Must_Flow.exe.config
+C:\Users\ivayl\source\repos\Exercise Data Types and Variables\09. Spice Must Flow\bin\Debug\_09.Spice_Must_Flow.exe
+C:\Users\ivayl\source\repos\Exercise Data Types and Variables\09. Spice Must Flow\bin\Debug\_09.Spice_Must_Flow.pdb
+C:\Users\ivayl\source\repos\Exercise Data Types and Variables\09. Spice Must Flow\obj\Debug\09. Spice Must Flow.csproj.AssemblyReference.cache
+C:\Users\ivayl\source\repos\Exercise Data Types and Variables\09. Spice Must Flow\obj\Debug\09. Spice Must Flow.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivayl\source\repos\Exercise Data Types and Variables\09. Spice Must Flow\obj\Debug\09. Spice Must Flow.csproj.CoreCompileInputs.cache
+C:\Users\ivayl\source\repos\Exercise Data Types and Variables\09. Spice Must Flow\obj\Debug\_09.Spice_Must_Flow.exe
+C:\Users\ivayl\source\repos\Exercise Data Types and Variables\09. Spice Must Flow\obj\Debug\_09.Spice_Must_Flow.pdb

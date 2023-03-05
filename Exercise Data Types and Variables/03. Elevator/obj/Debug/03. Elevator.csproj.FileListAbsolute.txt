@@ -1,0 +1,8 @@
+C:\Users\ivayl\source\repos\Exercise Data Types and Variables\03. Elevator\bin\Debug\_03.Elevator.exe.config
+C:\Users\ivayl\source\repos\Exercise Data Types and Variables\03. Elevator\bin\Debug\_03.Elevator.exe
+C:\Users\ivayl\source\repos\Exercise Data Types and Variables\03. Elevator\bin\Debug\_03.Elevator.pdb
+C:\Users\ivayl\source\repos\Exercise Data Types and Variables\03. Elevator\obj\Debug\03. Elevator.csproj.AssemblyReference.cache
+C:\Users\ivayl\source\repos\Exercise Data Types and Variables\03. Elevator\obj\Debug\03. Elevator.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivayl\source\repos\Exercise Data Types and Variables\03. Elevator\obj\Debug\03. Elevator.csproj.CoreCompileInputs.cache
+C:\Users\ivayl\source\repos\Exercise Data Types and Variables\03. Elevator\obj\Debug\_03.Elevator.exe
+C:\Users\ivayl\source\repos\Exercise Data Types and Variables\03. Elevator\obj\Debug\_03.Elevator.pdb

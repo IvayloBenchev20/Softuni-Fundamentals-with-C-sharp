@@ -1,0 +1,8 @@
+C:\Users\ivayl\source\repos\Exercise Data Types and Variables\Exercise Data Types and Variables\bin\Debug\Exercise Data Types and Variables.exe.config
+C:\Users\ivayl\source\repos\Exercise Data Types and Variables\Exercise Data Types and Variables\bin\Debug\Exercise Data Types and Variables.exe
+C:\Users\ivayl\source\repos\Exercise Data Types and Variables\Exercise Data Types and Variables\bin\Debug\Exercise Data Types and Variables.pdb
+C:\Users\ivayl\source\repos\Exercise Data Types and Variables\Exercise Data Types and Variables\obj\Debug\1. Integer Operations.csproj.AssemblyReference.cache
+C:\Users\ivayl\source\repos\Exercise Data Types and Variables\Exercise Data Types and Variables\obj\Debug\1. Integer Operations.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivayl\source\repos\Exercise Data Types and Variables\Exercise Data Types and Variables\obj\Debug\1. Integer Operations.csproj.CoreCompileInputs.cache
+C:\Users\ivayl\source\repos\Exercise Data Types and Variables\Exercise Data Types and Variables\obj\Debug\Exercise Data Types and Variables.exe
+C:\Users\ivayl\source\repos\Exercise Data Types and Variables\Exercise Data Types and Variables\obj\Debug\Exercise Data Types and Variables.pdb

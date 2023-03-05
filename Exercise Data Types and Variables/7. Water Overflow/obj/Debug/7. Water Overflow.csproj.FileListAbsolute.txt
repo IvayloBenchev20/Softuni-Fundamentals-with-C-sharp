@@ -1,0 +1,8 @@
+C:\Users\ivayl\source\repos\Exercise Data Types and Variables\7. Water Overflow\bin\Debug\_7.Water_Overflow.exe.config
+C:\Users\ivayl\source\repos\Exercise Data Types and Variables\7. Water Overflow\bin\Debug\_7.Water_Overflow.exe
+C:\Users\ivayl\source\repos\Exercise Data Types and Variables\7. Water Overflow\bin\Debug\_7.Water_Overflow.pdb
+C:\Users\ivayl\source\repos\Exercise Data Types and Variables\7. Water Overflow\obj\Debug\7. Water Overflow.csproj.AssemblyReference.cache
+C:\Users\ivayl\source\repos\Exercise Data Types and Variables\7. Water Overflow\obj\Debug\7. Water Overflow.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivayl\source\repos\Exercise Data Types and Variables\7. Water Overflow\obj\Debug\7. Water Overflow.csproj.CoreCompileInputs.cache
+C:\Users\ivayl\source\repos\Exercise Data Types and Variables\7. Water Overflow\obj\Debug\_7.Water_Overflow.exe
+C:\Users\ivayl\source\repos\Exercise Data Types and Variables\7. Water Overflow\obj\Debug\_7.Water_Overflow.pdb

@@ -1,0 +1,8 @@
+C:\Users\ivayl\source\repos\Exercise Data Types and Variables\4. Sum of Chars\bin\Debug\_4.Sum_of_Chars.exe.config
+C:\Users\ivayl\source\repos\Exercise Data Types and Variables\4. Sum of Chars\bin\Debug\_4.Sum_of_Chars.exe
+C:\Users\ivayl\source\repos\Exercise Data Types and Variables\4. Sum of Chars\bin\Debug\_4.Sum_of_Chars.pdb
+C:\Users\ivayl\source\repos\Exercise Data Types and Variables\4. Sum of Chars\obj\Debug\4. Sum of Chars.csproj.AssemblyReference.cache
+C:\Users\ivayl\source\repos\Exercise Data Types and Variables\4. Sum of Chars\obj\Debug\4. Sum of Chars.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivayl\source\repos\Exercise Data Types and Variables\4. Sum of Chars\obj\Debug\4. Sum of Chars.csproj.CoreCompileInputs.cache
+C:\Users\ivayl\source\repos\Exercise Data Types and Variables\4. Sum of Chars\obj\Debug\_4.Sum_of_Chars.exe
+C:\Users\ivayl\source\repos\Exercise Data Types and Variables\4. Sum of Chars\obj\Debug\_4.Sum_of_Chars.pdb

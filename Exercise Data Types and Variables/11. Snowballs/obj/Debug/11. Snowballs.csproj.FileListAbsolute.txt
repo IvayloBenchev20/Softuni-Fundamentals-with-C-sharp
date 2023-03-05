@@ -1,0 +1,8 @@
+C:\Users\ivayl\source\repos\Exercise Data Types and Variables\11. Snowballs\bin\Debug\_11.Snowballs.exe.config
+C:\Users\ivayl\source\repos\Exercise Data Types and Variables\11. Snowballs\bin\Debug\_11.Snowballs.exe
+C:\Users\ivayl\source\repos\Exercise Data Types and Variables\11. Snowballs\bin\Debug\_11.Snowballs.pdb
+C:\Users\ivayl\source\repos\Exercise Data Types and Variables\11. Snowballs\obj\Debug\11. Snowballs.csproj.AssemblyReference.cache
+C:\Users\ivayl\source\repos\Exercise Data Types and Variables\11. Snowballs\obj\Debug\11. Snowballs.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivayl\source\repos\Exercise Data Types and Variables\11. Snowballs\obj\Debug\11. Snowballs.csproj.CoreCompileInputs.cache
+C:\Users\ivayl\source\repos\Exercise Data Types and Variables\11. Snowballs\obj\Debug\_11.Snowballs.exe
+C:\Users\ivayl\source\repos\Exercise Data Types and Variables\11. Snowballs\obj\Debug\_11.Snowballs.pdb

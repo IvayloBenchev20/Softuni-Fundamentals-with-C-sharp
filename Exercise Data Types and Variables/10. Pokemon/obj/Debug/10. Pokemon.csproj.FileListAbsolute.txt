@@ -1,0 +1,8 @@
+C:\Users\ivayl\source\repos\Exercise Data Types and Variables\10. Pokemon\bin\Debug\_10.Pokemon.exe.config
+C:\Users\ivayl\source\repos\Exercise Data Types and Variables\10. Pokemon\bin\Debug\_10.Pokemon.exe
+C:\Users\ivayl\source\repos\Exercise Data Types and Variables\10. Pokemon\bin\Debug\_10.Pokemon.pdb
+C:\Users\ivayl\source\repos\Exercise Data Types and Variables\10. Pokemon\obj\Debug\10. Pokemon.csproj.AssemblyReference.cache
+C:\Users\ivayl\source\repos\Exercise Data Types and Variables\10. Pokemon\obj\Debug\10. Pokemon.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivayl\source\repos\Exercise Data Types and Variables\10. Pokemon\obj\Debug\10. Pokemon.csproj.CoreCompileInputs.cache
+C:\Users\ivayl\source\repos\Exercise Data Types and Variables\10. Pokemon\obj\Debug\_10.Pokemon.exe
+C:\Users\ivayl\source\repos\Exercise Data Types and Variables\10. Pokemon\obj\Debug\_10.Pokemon.pdb
