@@ -1,0 +1,8 @@
+C:\Users\ivayl\source\repos\Data Types and Variables\3. Exact Sum of Real Numbers\bin\Debug\_3.Exact_Sum_of_Real_Numbers.exe.config
+C:\Users\ivayl\source\repos\Data Types and Variables\3. Exact Sum of Real Numbers\bin\Debug\_3.Exact_Sum_of_Real_Numbers.exe
+C:\Users\ivayl\source\repos\Data Types and Variables\3. Exact Sum of Real Numbers\bin\Debug\_3.Exact_Sum_of_Real_Numbers.pdb
+C:\Users\ivayl\source\repos\Data Types and Variables\3. Exact Sum of Real Numbers\obj\Debug\3. Exact Sum of Real Numbers.csproj.AssemblyReference.cache
+C:\Users\ivayl\source\repos\Data Types and Variables\3. Exact Sum of Real Numbers\obj\Debug\3. Exact Sum of Real Numbers.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivayl\source\repos\Data Types and Variables\3. Exact Sum of Real Numbers\obj\Debug\3. Exact Sum of Real Numbers.csproj.CoreCompileInputs.cache
+C:\Users\ivayl\source\repos\Data Types and Variables\3. Exact Sum of Real Numbers\obj\Debug\_3.Exact_Sum_of_Real_Numbers.exe
+C:\Users\ivayl\source\repos\Data Types and Variables\3. Exact Sum of Real Numbers\obj\Debug\_3.Exact_Sum_of_Real_Numbers.pdb

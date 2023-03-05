@@ -1,0 +1,8 @@
+C:\Users\ivayl\source\repos\Data Types and Variables\2. Pounds to Dollars\bin\Debug\_2.Pounds_to_Dollars.exe.config
+C:\Users\ivayl\source\repos\Data Types and Variables\2. Pounds to Dollars\bin\Debug\_2.Pounds_to_Dollars.exe
+C:\Users\ivayl\source\repos\Data Types and Variables\2. Pounds to Dollars\bin\Debug\_2.Pounds_to_Dollars.pdb
+C:\Users\ivayl\source\repos\Data Types and Variables\2. Pounds to Dollars\obj\Debug\2. Pounds to Dollars.csproj.AssemblyReference.cache
+C:\Users\ivayl\source\repos\Data Types and Variables\2. Pounds to Dollars\obj\Debug\2. Pounds to Dollars.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivayl\source\repos\Data Types and Variables\2. Pounds to Dollars\obj\Debug\2. Pounds to Dollars.csproj.CoreCompileInputs.cache
+C:\Users\ivayl\source\repos\Data Types and Variables\2. Pounds to Dollars\obj\Debug\_2.Pounds_to_Dollars.exe
+C:\Users\ivayl\source\repos\Data Types and Variables\2. Pounds to Dollars\obj\Debug\_2.Pounds_to_Dollars.pdb

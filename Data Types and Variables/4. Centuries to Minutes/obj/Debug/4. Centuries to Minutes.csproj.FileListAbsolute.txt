@@ -1,0 +1,8 @@
+C:\Users\ivayl\source\repos\Data Types and Variables\4. Centuries to Minutes\bin\Debug\_4.Centuries_to_Minutes.exe.config
+C:\Users\ivayl\source\repos\Data Types and Variables\4. Centuries to Minutes\bin\Debug\_4.Centuries_to_Minutes.exe
+C:\Users\ivayl\source\repos\Data Types and Variables\4. Centuries to Minutes\bin\Debug\_4.Centuries_to_Minutes.pdb
+C:\Users\ivayl\source\repos\Data Types and Variables\4. Centuries to Minutes\obj\Debug\4. Centuries to Minutes.csproj.AssemblyReference.cache
+C:\Users\ivayl\source\repos\Data Types and Variables\4. Centuries to Minutes\obj\Debug\4. Centuries to Minutes.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivayl\source\repos\Data Types and Variables\4. Centuries to Minutes\obj\Debug\4. Centuries to Minutes.csproj.CoreCompileInputs.cache
+C:\Users\ivayl\source\repos\Data Types and Variables\4. Centuries to Minutes\obj\Debug\_4.Centuries_to_Minutes.exe
+C:\Users\ivayl\source\repos\Data Types and Variables\4. Centuries to Minutes\obj\Debug\_4.Centuries_to_Minutes.pdb
