@@ -1,0 +1,8 @@
+C:\Users\ivayl\source\repos\11.Arrays-Lecture\8. Condense Array to Number\bin\Debug\_8.Condense_Array_to_Number.exe.config
+C:\Users\ivayl\source\repos\11.Arrays-Lecture\8. Condense Array to Number\bin\Debug\_8.Condense_Array_to_Number.exe
+C:\Users\ivayl\source\repos\11.Arrays-Lecture\8. Condense Array to Number\bin\Debug\_8.Condense_Array_to_Number.pdb
+C:\Users\ivayl\source\repos\11.Arrays-Lecture\8. Condense Array to Number\obj\Debug\8. Condense Array to Number.csproj.AssemblyReference.cache
+C:\Users\ivayl\source\repos\11.Arrays-Lecture\8. Condense Array to Number\obj\Debug\8. Condense Array to Number.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivayl\source\repos\11.Arrays-Lecture\8. Condense Array to Number\obj\Debug\8. Condense Array to Number.csproj.CoreCompileInputs.cache
+C:\Users\ivayl\source\repos\11.Arrays-Lecture\8. Condense Array to Number\obj\Debug\_8.Condense_Array_to_Number.exe
+C:\Users\ivayl\source\repos\11.Arrays-Lecture\8. Condense Array to Number\obj\Debug\_8.Condense_Array_to_Number.pdb

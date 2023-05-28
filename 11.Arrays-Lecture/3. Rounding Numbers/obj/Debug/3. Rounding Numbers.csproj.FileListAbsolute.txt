@@ -1,0 +1,8 @@
+C:\Users\ivayl\source\repos\11.Arrays-Lecture\3. Rounding Numbers\bin\Debug\_3.Rounding_Numbers.exe.config
+C:\Users\ivayl\source\repos\11.Arrays-Lecture\3. Rounding Numbers\bin\Debug\_3.Rounding_Numbers.exe
+C:\Users\ivayl\source\repos\11.Arrays-Lecture\3. Rounding Numbers\bin\Debug\_3.Rounding_Numbers.pdb
+C:\Users\ivayl\source\repos\11.Arrays-Lecture\3. Rounding Numbers\obj\Debug\3. Rounding Numbers.csproj.AssemblyReference.cache
+C:\Users\ivayl\source\repos\11.Arrays-Lecture\3. Rounding Numbers\obj\Debug\3. Rounding Numbers.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivayl\source\repos\11.Arrays-Lecture\3. Rounding Numbers\obj\Debug\3. Rounding Numbers.csproj.CoreCompileInputs.cache
+C:\Users\ivayl\source\repos\11.Arrays-Lecture\3. Rounding Numbers\obj\Debug\_3.Rounding_Numbers.exe
+C:\Users\ivayl\source\repos\11.Arrays-Lecture\3. Rounding Numbers\obj\Debug\_3.Rounding_Numbers.pdb

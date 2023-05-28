@@ -1,0 +1,8 @@
+C:\Users\ivayl\source\repos\11.Arrays-Lecture\4. Reverse Array of Strings\bin\Debug\_4.Reverse_Array_of_Strings.exe.config
+C:\Users\ivayl\source\repos\11.Arrays-Lecture\4. Reverse Array of Strings\bin\Debug\_4.Reverse_Array_of_Strings.exe
+C:\Users\ivayl\source\repos\11.Arrays-Lecture\4. Reverse Array of Strings\bin\Debug\_4.Reverse_Array_of_Strings.pdb
+C:\Users\ivayl\source\repos\11.Arrays-Lecture\4. Reverse Array of Strings\obj\Debug\4. Reverse Array of Strings.csproj.AssemblyReference.cache
+C:\Users\ivayl\source\repos\11.Arrays-Lecture\4. Reverse Array of Strings\obj\Debug\4. Reverse Array of Strings.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivayl\source\repos\11.Arrays-Lecture\4. Reverse Array of Strings\obj\Debug\4. Reverse Array of Strings.csproj.CoreCompileInputs.cache
+C:\Users\ivayl\source\repos\11.Arrays-Lecture\4. Reverse Array of Strings\obj\Debug\_4.Reverse_Array_of_Strings.exe
+C:\Users\ivayl\source\repos\11.Arrays-Lecture\4. Reverse Array of Strings\obj\Debug\_4.Reverse_Array_of_Strings.pdb
